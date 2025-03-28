@@ -4,12 +4,7 @@ export default function Home() {
     <>
       <p>Home</p>
 
-      <Image
-        src="/hc.png"
-        width={800}
-        height={800}
-        alt="Basketball court"
-      />
+     
     </>
   );
 }
